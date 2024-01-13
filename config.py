@@ -1,9 +1,9 @@
-api_id =  #my.telegram.org
-api_hash = "" #my.telegram.org
+api_id = "23081466" #my.telegram.org
+api_hash = "dbc665db1489f9d3cfd8de4a52f1ad4b" #my.telegram.org
 
-bot_token = ""
+bot_token = "6629073216:AAFWx3fehhM5lx-RkS79j31H1u__yRS9fjA"
 
-CHAT_ID = -100 #chatid and make sure add bot on this chat and promote as admin 
+CHAT_ID = -1002003675192 #chatid and make sure add bot on this chat and promote as admin 
 
 
 cookies = { # Netscape HTTP Cookie File
